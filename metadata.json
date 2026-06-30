@@ -1,0 +1,6 @@
+{
+  "name": "FixItforWard",
+  "description": "A polished civic engagement app styled as FixItforWard, where citizens report, upvote, and verify local issues, earning points and climbing the ranks to become local heroes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
