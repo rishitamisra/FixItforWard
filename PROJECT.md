@@ -1,4 +1,4 @@
-# Nagrik Sathi (Citizen Companion) - Project Documentation & Workflow
+# FixItforWard - Project Documentation & Workflow
 
 A unified civic complaint and collaboration workspace empowering citizens, civic authorities, and community leaders to transform civic tracking and community problem-solving.
 
